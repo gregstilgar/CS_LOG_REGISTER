@@ -1,0 +1,6 @@
+{"id":"aaaaaa","state":"STARTED","type":"APPLICATION_LOG","host":"12345","timestamp":1491377495212}
+{"id":"bbbbbb","state":"STARTED","timestamp":1491377495213}
+{"id":"cccccc","state":"FINISHED","timestamp":1491377495218}
+{"id":"aaaaaa","state":"FINISHED","type":"APPLICATION_LOG","host":"12345","timestamp":1491377495217}
+{"id":"cccccc","state":"STARTED","timestamp":1491377495210}
+{"id":"bbbbbb","state":"FINISHED","timestamp":1491377495216}
